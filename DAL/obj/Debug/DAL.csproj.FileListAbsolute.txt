@@ -1,0 +1,9 @@
+C:\Users\tamarindo\Downloads\cajemesfood\2.4.1\DAL\bin\Debug\DAL.dll
+C:\Users\tamarindo\Downloads\cajemesfood\2.4.1\DAL\bin\Debug\DAL.pdb
+C:\Users\tamarindo\Downloads\cajemesfood\2.4.1\DAL\bin\Debug\BILL.dll
+C:\Users\tamarindo\Downloads\cajemesfood\2.4.1\DAL\bin\Debug\BILL.pdb
+C:\Users\tamarindo\Downloads\cajemesfood\2.4.1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\tamarindo\Downloads\cajemesfood\2.4.1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tamarindo\Downloads\cajemesfood\2.4.1\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\tamarindo\Downloads\cajemesfood\2.4.1\DAL\obj\Debug\DAL.dll
+C:\Users\tamarindo\Downloads\cajemesfood\2.4.1\DAL\obj\Debug\DAL.pdb

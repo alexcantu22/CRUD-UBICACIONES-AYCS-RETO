@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tamarindo\\Downloads\\cajemesfood\\2.4.1\\CrudUbicaciones_AYCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D0EE55-DF07-4595-ACB2-0714297F246D}|CrudUbicaciones_AYCS.csproj|c:\\users\\tamarindo\\downloads\\cajemesfood\\2.4.1\\crudubicaciones_aycs\\frmubicaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E9D0EE55-DF07-4595-ACB2-0714297F246D}|CrudUbicaciones_AYCS.csproj|solutionrelative:frmubicaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D0EE55-DF07-4595-ACB2-0714297F246D}|CrudUbicaciones_AYCS.csproj|C:\\Users\\tamarindo\\Downloads\\cajemesfood\\2.4.1\\CrudUbicaciones_AYCS\\frmubicaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D0EE55-DF07-4595-ACB2-0714297F246D}|CrudUbicaciones_AYCS.csproj|solutionrelative:frmubicaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782C999-83C8-42E1-8255-AAA1D926CAF1}|..\\DAL\\DAL.csproj|c:\\users\\tamarindo\\downloads\\cajemesfood\\2.4.1\\dal\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782C999-83C8-42E1-8255-AAA1D926CAF1}|..\\DAL\\DAL.csproj|c:\\users\\tamarindo\\downloads\\cajemesfood\\2.4.1\\dal\\ubicaciones dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLDBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\Downloads\\cajemesfood\\2.4.1\\DAL\\SQLDBHelper.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\SQLDBHelper.cs",
+              "ToolTip": "C:\\Users\\tamarindo\\Downloads\\cajemesfood\\2.4.1\\DAL\\SQLDBHelper.cs",
+              "RelativeToolTip": "..\\DAL\\SQLDBHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:50:00.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUbicaciones.aspx",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\Downloads\\cajemesfood\\2.4.1\\CrudUbicaciones_AYCS\\frmUbicaciones.aspx",
+              "RelativeDocumentMoniker": "frmUbicaciones.aspx",
+              "ToolTip": "C:\\Users\\tamarindo\\Downloads\\cajemesfood\\2.4.1\\CrudUbicaciones_AYCS\\frmUbicaciones.aspx",
+              "RelativeToolTip": "frmUbicaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T14:09:10.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUbicaciones.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\Downloads\\cajemesfood\\2.4.1\\CrudUbicaciones_AYCS\\frmUbicaciones.aspx.cs",
+              "RelativeDocumentMoniker": "frmUbicaciones.aspx.cs",
+              "ToolTip": "C:\\Users\\tamarindo\\Downloads\\cajemesfood\\2.4.1\\CrudUbicaciones_AYCS\\frmUbicaciones.aspx.cs",
+              "RelativeToolTip": "frmUbicaciones.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwFcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:59:30.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ubicaciones DAL.cs",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\Downloads\\cajemesfood\\2.4.1\\DAL\\ubicaciones DAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\ubicaciones DAL.cs",
+              "ToolTip": "C:\\Users\\tamarindo\\Downloads\\cajemesfood\\2.4.1\\DAL\\ubicaciones DAL.cs",
+              "RelativeToolTip": "..\\DAL\\ubicaciones DAL.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:40:34.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
